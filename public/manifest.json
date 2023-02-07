@@ -1,0 +1,15 @@
+{
+  "name": "Service Worker Test | Push Notifications",
+  "short_name": "SW Push Notifications",
+  "start_url": ".",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "images/pwa-icon.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ]
+}
